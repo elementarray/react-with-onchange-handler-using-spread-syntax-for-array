@@ -1,4 +1,4 @@
-# React controlled Form Inout Component using spread syntax to build array
+# React controlled Form Input Component using spread syntax to build array
 
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
